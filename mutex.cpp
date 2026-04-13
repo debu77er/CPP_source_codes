@@ -3,7 +3,7 @@
 #include <mutex>
 #include <vector>
 
-// g++ -o mutex mutex.cpp -lpthread
+// g++ -std=c++11 -o mutex mutex.cpp -lpthread
 
 
 // Shared resource
