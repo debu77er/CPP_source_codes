@@ -1,4 +1,6 @@
 c++ operator precedence
 constructor
 destructor
+mailslot
 pointer
+semaphore
